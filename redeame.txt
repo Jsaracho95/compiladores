@@ -1,0 +1,8 @@
+El programa recibe fuente.txt
+Mantenga todos los archivos en el mismo directorio.
+
+#INTEGRANTES
+
+JOHANA SARACHO 
+
+SEBASTIAN HUBER 
